@@ -20,3 +20,12 @@ docker-compose up -d
 ```
 docker-compose exec -it go sh
 ```
+
+## note
+
+### air 
+
+Hot Reload Module  
+[https://github.com/cosmtrek/air](https://github.com/cosmtrek/air)
+
+
